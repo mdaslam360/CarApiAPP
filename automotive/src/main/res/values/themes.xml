@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.CarApiAPP" parent="Theme.AppCompat.Light" />
+</resources>
